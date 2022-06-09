@@ -10,4 +10,4 @@ Biologists today spend a lot of their time on pipetting and performing sample pr
 
 
 ### Objectives
-Setting up such a pipeline as mentioned above requires more than just basic programming knowledge, , including getting the robot up and running and implementing basic protocols for it. The goal of the project is to set up and explore the robot such that it can do desirable tasks in the lab, designing protocols for faster, simpler, and more accurate sample preparation, and, if time permits, create a short manual that the engineers can use on their own without necessarily needing detailed programming skills.  
+Setting up such a pipeline as mentioned above requires more than just basic programming knowledge, including getting the robot up and running and implementing basic protocols for it. The goal of the project is to set up and explore the robot such that it can do desirable tasks in the lab, designing protocols for faster, simpler, and more accurate sample preparation, and, if time permits, create a short manual that the engineers can use on their own without necessarily needing detailed programming skills.  
