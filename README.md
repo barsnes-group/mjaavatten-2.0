@@ -1,6 +1,8 @@
 # mjaavatten-2.0
-University of Bergen     
-An INF319 Project - Exploring the possibilites of utilizing an Opentrons pipette robot for faster and more accurate sample preparation
+INF319 Project - Exploring the possibilites of utilizing an Opentrons pipette robot for faster and more accurate sample preparation. 
+
+A project at the Department of Informatics, University of Bergen
+
 
 
 ### Motivation
